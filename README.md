@@ -7,7 +7,7 @@
 
  <p align="center"> 
 
-##### socials are a wip.
+##### [strawpage](https://abhorrences.straw.page)
  <p align="center">
 hai party people </p> 
 
