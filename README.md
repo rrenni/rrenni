@@ -7,7 +7,7 @@
 
  <p align="center"> 
 
-##### [strawpage](https://abhorrences.straw.page)
+##### [strawpage](https://nnote.straw.page)
  <p align="center">
 hai party people </p> 
 
